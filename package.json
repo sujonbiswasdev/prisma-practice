@@ -11,11 +11,12 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^24.3.1",
-    "prisma": "^6.16.0",
+    "prisma": "^6.16.1",
     "tsx": "^4.20.5",
     "typescript": "^5.9.2"
   },
   "dependencies": {
+    "@prisma/client": "^6.16.1",
     "c12": "^3.1.0",
     "chokidar": "^4.0.3",
     "citty": "^0.1.6",
