@@ -14,9 +14,14 @@
     }
 
 
+
     npx prisma migrate dev --name init
+
 
 
     npx prisma generate
 
     npx prisma studio
+
+typescript run
+    https://www.npmjs.com/package/ts-node-dev
